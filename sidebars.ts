@@ -18,7 +18,17 @@ const sidebars: SidebarsConfig = {
     'context',
     'mapping',
     'problems-interviews',
-    'problems-theory',
+    {
+      type: 'category',
+      label: 'Theoretical Analysis',
+      items: [
+        'theory/systems-thinking',
+        'theory/traditional-forms',
+        'theory/strategy-structure-alignment',
+        'theory/authority-responsibility',
+        'theory/interface-configuration',
+      ],
+    },
     'organizational-design',
     'results',
     {
