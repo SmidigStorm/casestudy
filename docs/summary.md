@@ -56,7 +56,7 @@ Use the sidebar to explore different aspects of SIKT's transformation. Each sect
 
 ## Getting Started
 
-Begin with the [Timeline](/timeline) to understand the overall journey, then explore specific topics based on your interests and needs.
+Begin with the [Context](/context) to understand why the transformation was needed, then explore the analysis and solution based on your interests and needs.
 
 ---
 

@@ -95,8 +95,8 @@ const config: Config = {
               to: '/',
             },
             {
-              label: 'Timeline',
-              to: '/timeline',
+              label: 'Context',
+              to: '/context',
             },
           ],
         },
