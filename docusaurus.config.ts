@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://smidigstorm.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/sikt-case-study/',
+  baseUrl: '/casestudy/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'smidigstorm', // Usually your GitHub org/user name.
-  projectName: 'sikt-case-study', // Usually your repo name.
+  projectName: 'casestudy', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/smidigstorm/sikt-case-study/tree/main/',
+            'https://github.com/smidigstorm/casestudy/tree/main/',
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/smidigstorm/sikt-case-study',
+          href: 'https://github.com/smidigstorm/casestudy',
           label: 'GitHub',
           position: 'right',
         },
@@ -118,7 +118,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/smidigstorm/sikt-case-study',
+              href: 'https://github.com/smidigstorm/casestudy',
             },
           ],
         },
