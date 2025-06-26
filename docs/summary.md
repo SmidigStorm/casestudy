@@ -3,9 +3,9 @@ sidebar_position: 1
 slug: /
 ---
 
-# SIKT Organizational Transformation
+# Summary
 
-## A Case Study in Creating Agile Organizations
+## SIKT's STA 2.0 Transformation: A Case Study in Creating Agile Organizations
 
 Welcome to the comprehensive case study documenting SIKT's journey from a traditional hierarchical organization to an agile, product-oriented structure. This transformation represents a significant shift in how public sector IT organizations can adapt to better serve their constituents.
 

@@ -14,20 +14,13 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   caseStudySidebar: [
-    'intro',
-    'timeline',
-    {
-      type: 'category',
-      label: 'Transformation Topics',
-      items: [
-        'topics/product-groups',
-        'topics/strategic-focus',
-        'topics/organizational-design',
-        'topics/cross-functional-teams',
-        'topics/shared-services',
-        'topics/outcomes',
-      ],
-    },
+    'summary',
+    'context',
+    'mapping',
+    'problems-interviews',
+    'problems-theory',
+    'organizational-design',
+    'results',
     {
       type: 'category',
       label: 'Appendices',
